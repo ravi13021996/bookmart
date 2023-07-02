@@ -1,0 +1,80 @@
+.signUpMain{
+    background-color: black;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    /* height: 50%; */
+    
+}
+
+.signUp{
+    display: flex;
+    color: white;
+    font-size: 50px;
+    font-family: 'Inria serif';
+}
+
+.signUpdes{
+    display: flex;
+    text-align: left;
+    font-size: 18px;
+    color: white;
+}
+
+.inputCss{
+    background-color: #27973E;
+    border-radius: 5px;
+    width: 100%;
+    height: 35px;
+    outline: none;
+    border: none;
+}
+
+.buttonCss{
+    width: 100%;
+    color: white;
+    background-color: #27973E;
+    font-size: 18px;
+    border: none;
+    padding: 4px 0px;
+    border-radius: 5px;
+}
+
+.instruction{
+    text-align: left;
+    margin-top: 40px;
+
+}
+
+.googleSignIn{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+.imgSty{
+    width: 500px;
+    /* height: 100vh; */
+}
+.createAc{
+   color:  #00C2FF;
+}
+
+.nextBtn{
+
+    color: white;
+    background-color: #27973E;
+    font-size: 18px;
+    border: none;
+    width: 100px;
+    padding: 4px 0px;
+    border-radius: 5px;
+}

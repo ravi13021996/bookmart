@@ -1,0 +1,43 @@
+.searchBarSelect{
+    background-color: white;
+    border: none;
+    border-radius:8px 0 0 8px ; 
+}
+
+.searchBarSelect select{
+    background-color: #2c5935;
+    color: white;
+    border: none;
+    height: 40px;
+    border-radius: 8px  ;
+  
+}
+.searchBarSelect select >option{
+    
+}
+
+
+
+.searchBarSelect input{
+    border: none;
+    background-color: white;
+    height: 40px;
+    outline: none;
+}
+
+.searchBarSelect > img{
+    background-color: white;
+}
+
+.searchBarSelect  img{
+    color: black;
+}
+
+.searchIcon{
+    background-color: white;
+    height: 40px;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}

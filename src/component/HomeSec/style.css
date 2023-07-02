@@ -1,0 +1,142 @@
+.section1 {
+    background-image: url('../../assest/GirlReadingBook.png');
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 200px 0;
+}
+
+.unleash {
+    font-size: 50px;
+    line-height: 50px;
+    margin-top: 30px;
+    font-family: 'IM Fell French Canon', serif;
+}
+
+.unlockmagic {
+    border-left: 1px solid white;
+    font-size: 18px;
+    margin-top: 80px;
+    padding-left: 10px;
+}
+
+.bestSeller {
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 0.8rem;
+}
+
+
+.buttonSec {
+    display: flex;
+    justify-content: start;
+    margin-top: 40px;
+}
+
+.btnCls {
+    border: none;
+    background-color: #2C5935;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 7px;
+}
+
+.GenereSelectionTxt {
+    letter-spacing: 5px;
+    color: white;
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+.generSubHeading {
+    letter-spacing: 2px;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+
+
+.generDivIndi {
+    width: 200px;
+    cursor: pointer;
+
+}
+
+.generDivIndi {
+
+    color: white;
+
+}
+
+.nameDescBox {
+    padding: 10px;
+    background-color: #2C5935;
+    width: 180px;
+    height: 80px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.genreImgcss {
+    /* width: 100%; */
+}
+
+.nameGenre {
+    font-size: 13px;
+}
+
+.descGenre {
+    font-size: 10px;
+}
+
+.perfectPlaceCec {
+    color: white;
+    margin-top: 50px;
+
+}
+
+.perfectPlaceCec>.heading {
+    font-size: 40px;
+    margin: 40px 0;
+}
+
+.perfectPlaceCec>.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bText,
+.sText,
+.wText {
+    font-size: 30px;
+    margin-top: 2 0px;
+}
+
+.recommendDesc {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    color: white;
+    letter-spacing: 3px;
+}
+
+.swipeMOre{
+    width: 80px;
+    color: #2C5935;
+    border: 2px solid #49906E;
+    margin: 10px;
+}
+.swipeText{
+   color : #064124;
+}
+
+.aboutusBtn{
+    border: none;
+    /* width: 100px; */
+    background-color: #0E6820;
+    border-radius: 7px;
+    color: white;
+    padding: 5px 40px;
+    font-size: 30px;
+    letter-spacing: 5px;
+}

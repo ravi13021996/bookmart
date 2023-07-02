@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+    
+}
+
+.manulisting>li{
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+/* .d-flex{
+    display: flex;
+} */
+.justify-content-center{
+    justify-content: center;
+}
+
+.thirdCol{
+    justify-content: end;
+}

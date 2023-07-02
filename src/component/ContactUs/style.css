@@ -1,0 +1,8 @@
+.banner {
+    position: relative;
+}
+.bannerText{
+   color: white;
+   top: 40%;
+   right: 40%; 
+}
